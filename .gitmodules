@@ -1,0 +1,5 @@
+[submodule "linkbench"]
+	path = linkbench
+	url = ../linkbench.git
+	branch = master
+	update = rebase
